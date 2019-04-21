@@ -1,15 +1,15 @@
 {
-  "main.css": "/toggler/static/css/main.7090b284.chunk.css",
-  "main.js": "/toggler/static/js/main.f805fa34.chunk.js",
-  "main.js.map": "/toggler/static/js/main.f805fa34.chunk.js.map",
+  "main.css": "/toggler/static/css/main.aee4297c.chunk.css",
+  "main.js": "/toggler/static/js/main.08219fd8.chunk.js",
+  "main.js.map": "/toggler/static/js/main.08219fd8.chunk.js.map",
   "runtime~main.js": "/toggler/static/js/runtime~main.e7620e56.js",
   "runtime~main.js.map": "/toggler/static/js/runtime~main.e7620e56.js.map",
   "static/css/2.a5bbc713.chunk.css": "/toggler/static/css/2.a5bbc713.chunk.css",
-  "static/js/2.4dd5e9b8.chunk.js": "/toggler/static/js/2.4dd5e9b8.chunk.js",
-  "static/js/2.4dd5e9b8.chunk.js.map": "/toggler/static/js/2.4dd5e9b8.chunk.js.map",
+  "static/js/2.0b36bf0e.chunk.js": "/toggler/static/js/2.0b36bf0e.chunk.js",
+  "static/js/2.0b36bf0e.chunk.js.map": "/toggler/static/js/2.0b36bf0e.chunk.js.map",
   "index.html": "/toggler/index.html",
-  "precache-manifest.7169e65e48b8bb61fe63e6854605e710.js": "/toggler/precache-manifest.7169e65e48b8bb61fe63e6854605e710.js",
+  "precache-manifest.35956bf6182dd7f34a31f658443842dd.js": "/toggler/precache-manifest.35956bf6182dd7f34a31f658443842dd.js",
   "service-worker.js": "/toggler/service-worker.js",
   "static/css/2.a5bbc713.chunk.css.map": "/toggler/static/css/2.a5bbc713.chunk.css.map",
-  "static/css/main.7090b284.chunk.css.map": "/toggler/static/css/main.7090b284.chunk.css.map"
+  "static/css/main.aee4297c.chunk.css.map": "/toggler/static/css/main.aee4297c.chunk.css.map"
 }
